@@ -101,3 +101,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
+
+
+# EasyOCR text detection model
+```
+python test.py --trained_model=./model/craft_mlt_25k.pth --test_folder=./images
+```

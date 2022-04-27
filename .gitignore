@@ -4,3 +4,7 @@
 *.pth
 result*
 weights*
+
+
+.venv/
+images/
